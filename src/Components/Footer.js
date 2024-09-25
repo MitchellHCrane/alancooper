@@ -21,9 +21,9 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">License Info</h3>
           <p className="footerP">Alan Cooper (NMLS #1912420)</p>
-          <p className="footerP">
+          {/* <p className="footerP">
             Regulated by State of Utah Division of Real Estate NMLS #1843
-          </p>
+          </p> */}
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">Address</h3>

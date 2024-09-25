@@ -10,12 +10,12 @@ function Profile() {
             <img
               className="headProfilePic"
               src="../images/alanHeadshot.jpg"
-              alt="Alan Cooper Loan Officer"
+              alt="Alan Cooper Mortgage Broker"
             />
           </div>
           <div>
             <h1 className="profileName">Alan Cooper</h1>
-            <h2 className="NMLS">Loan Officer (NMLS #1912420)</h2>
+            <h2 className="NMLS">Mortgage Broker (NMLS #1912420)</h2>
             <p className="profileP">
               Hello I&apos;m Alan, I help families obtain the American Dream,
               one home at a time! I look forward to helping you along your home
